@@ -1,0 +1,3 @@
+1) Run csv_to_excel.py to extract platform and editor_choice column in a excel sheet name try3.xls
+
+2) Parse this excel sheet , push the platform entries if editor_choice is equal to 'Y' in a list, and from this list output the platform having maximum no of entries.
