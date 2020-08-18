@@ -1,3 +1,3 @@
 1) Run csv_to_excel2.py to extract platform and their score in a excel sheet name award.xls
 
-2) Run parse.py to calculate total no of entries of Macintosh platform and total score of macintosh entries and hence find the average of Macintosh platform award by diving total score to total no of occurence of Macintosh.
+2) Run parse.py to calculate total no of entries of Macintosh platform and total score of macintosh entries and hence find the average of Macintosh platform award by dividing total score to total no of occurence of Macintosh.
